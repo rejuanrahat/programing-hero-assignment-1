@@ -217,3 +217,42 @@ body {
     color: #6c757d;
     text-align: center;
 }
+
+.solution-section {
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    max-width: 1100px;
+    padding: 40px;
+}
+
+.solution-section .solution-image {
+    width: 600px;
+    height: 600px;
+}
+.secound-solution h4{
+    width: 700px;
+    height: 20px;
+    font-size: 16px;
+    color: #469165;
+    margin-bottom: 16px;
+}
+
+.secound-solution h2{
+    width: 700px;
+    height: 116px;
+    font-size: 48px;
+    font-weight: bold;
+    line-height: auto;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.secound-solution p{
+    width: 700px;
+    height: 60px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
